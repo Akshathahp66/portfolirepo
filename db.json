@@ -1,21 +1,21 @@
 {
-	"profile": {
-		"hero": {
-			"href": ["mailto:akshathahp66@gmail.com", "linkedin.com/in/akshatha-hp/"],
-			"heading": "Akshatha Prakash"
-		},
-		"about": {
-			"para1": "Date of Birth: 24th August, 1992.",
-			"para2": "Gender: Female.",
-			"para3": "Languages: Kannada, English, Hindi",
-			"para5": "Hobbies: Love to Sing, trained and certified by Karnataka Secondary Education Examination Board for securing first class in junior and senior grade Carnatic classical music (vocal).",
-			"para6": "My carrier objective is to learn and grow in a reputed organization that will enable me enhance my technical and organizational skills and to render efficiently for the progress of the company."
 
-		},
-		"contact": {
-			"name": "Aditya",
-			"email": "amagadi@gmail.com",
-			"requirement" : " Develop a portfolie site for me"
-		}
+	"hero": {
+		"href": ["mailto:akshathahp66@gmail.com", "linkedin.com/in/akshatha-hp/"],
+		"heading": "Akshatha Prakash"
+	},
+	"about": {
+		"para1": "Date of Birth: 24th August, 1992.",
+		"para2": "Gender: Female.",
+		"para3": "Languages: Kannada, English, Hindi",
+		"para5": "Hobbies: Love to Sing, trained and certified by Karnataka Secondary Education Examination Board for securing first class in junior and senior grade Carnatic classical music (vocal).",
+		"para6": "My carrier objective is to learn and grow in a reputed organization that will enable me enhance my technical and organizational skills and to render efficiently for the progress of the company."
+
+	},
+	"contact": {
+		"name": "Aditya",
+		"email": "amagadi@gmail.com",
+		"requirement": " Develop a portfolie site for me"
 	}
+
 }
