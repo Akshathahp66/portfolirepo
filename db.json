@@ -1,6 +1,8 @@
 {
   "profile": {
-    href: [mailto:akshathahp66@gmail.com, linkedin.com/in/akshatha-hp/],
-    heading: Akshatha Prakash
+    "hero: {
+      "href": ["mailto:akshathahp66@gmail.com", "linkedin.com/in/akshatha-hp/"],
+      "heading": "Akshatha Prakash"
+    }
   }
 }
